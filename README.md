@@ -73,7 +73,7 @@ This project helped in understanding:
 - Database Connectivity (MySQL)
 - GUI using Java Swing
 - Login Authentication System
-## Author - Vaibhav Singh
-Vaibhav Sing## Author
 
+
+## Author
 Vaibhav Singh
